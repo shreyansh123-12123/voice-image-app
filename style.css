@@ -1,0 +1,38 @@
+#start-btn
+{
+    width: 60%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 305px;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 55px;
+}
+body{
+    background: linear-gradient(rgb(255, 157, 0),rgb(30, 122, 122));
+}
+#button{
+    background: rgb(0, 174, 255);
+}
+#note{
+    font-family: 'Dancing Script', cursive;
+    font-size: 35px;
+    color: royalblue;
+}
+h3,label,p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
